@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin047" alt="kevin047" /></a> </p>
 
-- 🌱 I’m currently learning **Web development and AI/ML**
+- 🌱 I’m currently learning **Web development and AI/ML GenAI**.
 
 - 📫 How to reach me **kevinprajapati047@gmail.com**
 
